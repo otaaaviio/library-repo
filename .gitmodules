@@ -1,0 +1,6 @@
+[submodule "library"]
+	path = library
+	url = https://github.com/otaaaviio/library.git
+[submodule "library-vue"]
+	path = library-vue
+	url = https://github.com/otaaaviio/library-vue.git
